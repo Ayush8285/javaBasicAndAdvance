@@ -1,0 +1,8 @@
+Directory Contents: 
+C:\Desktop\SpringBoot\JavaIO\DirectoryFileChallenge\public\assets
+C:\Desktop\SpringBoot\JavaIO\DirectoryFileChallenge\public\assets\icons
+C:\Desktop\SpringBoot\JavaIO\DirectoryFileChallenge\public\assets\icons\index.txt
+C:\Desktop\SpringBoot\JavaIO\DirectoryFileChallenge\public\assets\icons\indexCopy.txt
+C:\Desktop\SpringBoot\JavaIO\DirectoryFileChallenge\public\assets\index.txt
+C:\Desktop\SpringBoot\JavaIO\DirectoryFileChallenge\public\assets\indexCopy.txt
+Generated: 2024-08-28T16:02:20.205559300

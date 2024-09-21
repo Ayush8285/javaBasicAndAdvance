@@ -1,0 +1,412 @@
+[
+  {
+    "studentId": 1,
+    "demographics": {
+      "countryCode": " US",
+      "enrolledMonth": 2,
+      "enrolledYear": 2020,
+      "ageAtEnrollment": 82,
+      "gender": " U",
+      "previousProgrammingExperience": false
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 11",
+    "enrollmentMonth": 2,
+    "enrollmentYear": 2020,
+    "lastLecture": 11,
+    "lastActiveMonth": 8,
+    "lastActiveYear": 2024
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 4",
+    "enrollmentMonth": 2,
+    "enrollmentYear": 2020,
+    "lastLecture": 4,
+    "lastActiveMonth": 1,
+    "lastActiveYear": 2020
+  }
+  }
+},
+  {
+    "studentId": 2,
+    "demographics": {
+      "countryCode": " AU",
+      "enrolledMonth": 8,
+      "enrolledYear": 2017,
+      "ageAtEnrollment": 79,
+      "gender": " M",
+      "previousProgrammingExperience": false
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 1",
+    "enrollmentMonth": 8,
+    "enrollmentYear": 2017,
+    "lastLecture": 1,
+    "lastActiveMonth": 11,
+    "lastActiveYear": 2017
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 7",
+    "enrollmentMonth": 8,
+    "enrollmentYear": 2017,
+    "lastLecture": 7,
+    "lastActiveMonth": 8,
+    "lastActiveYear": 2019
+  }
+  }
+},
+  {
+    "studentId": 3,
+    "demographics": {
+      "countryCode": " GB",
+      "enrolledMonth": 8,
+      "enrolledYear": 2022,
+      "ageAtEnrollment": 37,
+      "gender": " F",
+      "previousProgrammingExperience": false
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 10",
+    "enrollmentMonth": 8,
+    "enrollmentYear": 2022,
+    "lastLecture": 10,
+    "lastActiveMonth": 9,
+    "lastActiveYear": 2022
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 13",
+    "enrollmentMonth": 8,
+    "enrollmentYear": 2022,
+    "lastLecture": 13,
+    "lastActiveMonth": 8,
+    "lastActiveYear": 2022
+  }
+  }
+},
+  {
+    "studentId": 4,
+    "demographics": {
+      "countryCode": " GB",
+      "enrolledMonth": 6,
+      "enrolledYear": 2024,
+      "ageAtEnrollment": 52,
+      "gender": " U",
+      "previousProgrammingExperience": true
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 13",
+    "enrollmentMonth": 6,
+    "enrollmentYear": 2024,
+    "lastLecture": 13,
+    "lastActiveMonth": 5,
+    "lastActiveYear": 2024
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 3",
+    "enrollmentMonth": 6,
+    "enrollmentYear": 2024,
+    "lastLecture": 3,
+    "lastActiveMonth": 10,
+    "lastActiveYear": 2024
+  }
+  }
+},
+  {
+    "studentId": 5,
+    "demographics": {
+      "countryCode": " AU",
+      "enrolledMonth": 12,
+      "enrolledYear": 2016,
+      "ageAtEnrollment": 63,
+      "gender": " M",
+      "previousProgrammingExperience": true
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 3",
+    "enrollmentMonth": 12,
+    "enrollmentYear": 2016,
+    "lastLecture": 3,
+    "lastActiveMonth": 10,
+    "lastActiveYear": 2022
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 5",
+    "enrollmentMonth": 12,
+    "enrollmentYear": 2016,
+    "lastLecture": 5,
+    "lastActiveMonth": 11,
+    "lastActiveYear": 2017
+  }
+  }
+},
+  {
+    "studentId": 6,
+    "demographics": {
+      "countryCode": " US",
+      "enrolledMonth": 10,
+      "enrolledYear": 2021,
+      "ageAtEnrollment": 50,
+      "gender": " U",
+      "previousProgrammingExperience": true
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 14",
+    "enrollmentMonth": 10,
+    "enrollmentYear": 2021,
+    "lastLecture": 14,
+    "lastActiveMonth": 4,
+    "lastActiveYear": 2021
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 6",
+    "enrollmentMonth": 10,
+    "enrollmentYear": 2021,
+    "lastLecture": 6,
+    "lastActiveMonth": 10,
+    "lastActiveYear": 2021
+  }
+  }
+},
+  {
+    "studentId": 7,
+    "demographics": {
+      "countryCode": " AU",
+      "enrolledMonth": 12,
+      "enrolledYear": 2016,
+      "ageAtEnrollment": 71,
+      "gender": " M",
+      "previousProgrammingExperience": false
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 6",
+    "enrollmentMonth": 12,
+    "enrollmentYear": 2016,
+    "lastLecture": 6,
+    "lastActiveMonth": 10,
+    "lastActiveYear": 2024
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 4",
+    "enrollmentMonth": 12,
+    "enrollmentYear": 2016,
+    "lastLecture": 4,
+    "lastActiveMonth": 10,
+    "lastActiveYear": 2020
+  }
+  }
+},
+  {
+    "studentId": 8,
+    "demographics": {
+      "countryCode": " US",
+      "enrolledMonth": 1,
+      "enrolledYear": 2017,
+      "ageAtEnrollment": 61,
+      "gender": " U",
+      "previousProgrammingExperience": false
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 8",
+    "enrollmentMonth": 1,
+    "enrollmentYear": 2017,
+    "lastLecture": 8,
+    "lastActiveMonth": 9,
+    "lastActiveYear": 2022
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 11",
+    "enrollmentMonth": 1,
+    "enrollmentYear": 2017,
+    "lastLecture": 11,
+    "lastActiveMonth": 6,
+    "lastActiveYear": 2020
+  }
+  }
+},
+  {
+    "studentId": 9,
+    "demographics": {
+      "countryCode": " CN",
+      "enrolledMonth": 8,
+      "enrolledYear": 2018,
+      "ageAtEnrollment": 49,
+      "gender": " F",
+      "previousProgrammingExperience": false
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 4",
+    "enrollmentMonth": 8,
+    "enrollmentYear": 2018,
+    "lastLecture": 4,
+    "lastActiveMonth": 6,
+    "lastActiveYear": 2021
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 10",
+    "enrollmentMonth": 8,
+    "enrollmentYear": 2018,
+    "lastLecture": 10,
+    "lastActiveMonth": 4,
+    "lastActiveYear": 2024
+  }
+  }
+},
+  {
+    "studentId": 10,
+    "demographics": {
+      "countryCode": " US",
+      "enrolledMonth": 12,
+      "enrolledYear": 2020,
+      "ageAtEnrollment": 35,
+      "gender": " F",
+      "previousProgrammingExperience": true
+    },
+    "coursesEnrolled": [
+      {
+        "courseCode": " JMC",
+        "title": " Java Masterclass"
+      },
+      {
+        "courseCode": " PYC",
+        "title": " Python Masterclass"
+      }
+    ],
+    "engagementMap": {
+  {
+    "courseCode": " JMC",
+    "engagementType": " Lecture 6",
+    "enrollmentMonth": 12,
+    "enrollmentYear": 2020,
+    "lastLecture": 6,
+    "lastActiveMonth": 2,
+    "lastActiveYear": 2020
+  },
+  {
+    "courseCode": " PYC",
+    "engagementType": " Lecture 3",
+    "enrollmentMonth": 12,
+    "enrollmentYear": 2020,
+    "lastLecture": 3,
+    "lastActiveMonth": 10,
+    "lastActiveYear": 2023
+  }
+  }
+}
+]
