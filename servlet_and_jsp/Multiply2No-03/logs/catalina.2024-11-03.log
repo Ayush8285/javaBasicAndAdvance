@@ -1,0 +1,117 @@
+03-Nov-2024 16:10:01.189 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.96
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2024 19:44:30 UTC
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.96.0
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Amazon Corretto\jdk17.0.5_8
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.5+8-LTS
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+03-Nov-2024 16:10:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Desktop\yt\servlet_and_jsp\Multiply2No
+03-Nov-2024 16:10:01.195 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+03-Nov-2024 16:10:01.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Nov-2024 16:10:01.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Nov-2024 16:10:01.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Desktop\yt\servlet_and_jsp\Multiply2No
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Desktop\yt\servlet_and_jsp\Multiply2No\temp
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\logging.properties
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=56403:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin
+03-Nov-2024 16:10:01.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+03-Nov-2024 16:10:01.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+03-Nov-2024 16:10:01.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+03-Nov-2024 16:10:01.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+03-Nov-2024 16:10:01.245 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+03-Nov-2024 16:10:02.050 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:10:02.094 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1254] milliseconds
+03-Nov-2024 16:10:02.194 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Nov-2024 16:10:02.194 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.96]
+03-Nov-2024 16:10:02.208 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\Catalina\localhost\Multiply2No.xml]
+03-Nov-2024 16:10:03.037 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\Catalina\localhost\Multiply2No.xml] has finished in [823] ms
+03-Nov-2024 16:10:03.043 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:10:03.205 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1111] milliseconds
+03-Nov-2024 16:54:05.703 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:54:05.807 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Nov-2024 16:54:05.923 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:54:05.939 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:54:21.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.96
+03-Nov-2024 16:54:21.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2024 19:44:30 UTC
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.96.0
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Amazon Corretto\jdk17.0.5_8
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.5+8-LTS
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Desktop\yt\servlet_and_jsp\Multiply2No
+03-Nov-2024 16:54:21.409 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+03-Nov-2024 16:54:21.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Nov-2024 16:54:21.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Nov-2024 16:54:21.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Nov-2024 16:54:21.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Nov-2024 16:54:21.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Nov-2024 16:54:21.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+03-Nov-2024 16:54:21.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Desktop\yt\servlet_and_jsp\Multiply2No
+03-Nov-2024 16:54:21.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Desktop\yt\servlet_and_jsp\Multiply2No\temp
+03-Nov-2024 16:54:21.424 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\logging.properties
+03-Nov-2024 16:54:21.424 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Nov-2024 16:54:21.424 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=61392:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin
+03-Nov-2024 16:54:21.424 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+03-Nov-2024 16:54:21.430 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+03-Nov-2024 16:54:21.431 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+03-Nov-2024 16:54:21.431 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+03-Nov-2024 16:54:21.440 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+03-Nov-2024 16:54:21.989 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:54:22.031 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [918] milliseconds
+03-Nov-2024 16:54:22.091 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Nov-2024 16:54:22.091 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.96]
+03-Nov-2024 16:54:22.104 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\Catalina\localhost\Multiply2No.xml]
+03-Nov-2024 16:54:22.617 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\Catalina\localhost\Multiply2No.xml] has finished in [512] ms
+03-Nov-2024 16:54:22.626 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:54:22.689 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [657] milliseconds
+03-Nov-2024 16:57:03.739 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:57:03.808 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Nov-2024 16:57:03.831 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:57:03.839 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:57:17.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.96
+03-Nov-2024 16:57:17.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2024 19:44:30 UTC
+03-Nov-2024 16:57:17.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.96.0
+03-Nov-2024 16:57:17.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+03-Nov-2024 16:57:17.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Nov-2024 16:57:17.162 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Nov-2024 16:57:17.162 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Amazon Corretto\jdk17.0.5_8
+03-Nov-2024 16:57:17.162 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.5+8-LTS
+03-Nov-2024 16:57:17.162 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+03-Nov-2024 16:57:17.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Desktop\yt\servlet_and_jsp\Multiply2No
+03-Nov-2024 16:57:17.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+03-Nov-2024 16:57:17.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Nov-2024 16:57:17.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Nov-2024 16:57:17.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Nov-2024 16:57:17.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Nov-2024 16:57:17.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Nov-2024 16:57:17.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+03-Nov-2024 16:57:17.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Desktop\yt\servlet_and_jsp\Multiply2No
+03-Nov-2024 16:57:17.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Desktop\yt\servlet_and_jsp\Multiply2No\temp
+03-Nov-2024 16:57:17.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\logging.properties
+03-Nov-2024 16:57:17.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Nov-2024 16:57:17.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=62953:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin
+03-Nov-2024 16:57:17.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+03-Nov-2024 16:57:17.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+03-Nov-2024 16:57:17.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+03-Nov-2024 16:57:17.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+03-Nov-2024 16:57:17.187 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+03-Nov-2024 16:57:17.589 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:57:17.634 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [721] milliseconds
+03-Nov-2024 16:57:17.684 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Nov-2024 16:57:17.685 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.96]
+03-Nov-2024 16:57:17.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\Catalina\localhost\Multiply2No.xml]
+03-Nov-2024 16:57:18.112 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Desktop\yt\servlet_and_jsp\Multiply2No\conf\Catalina\localhost\Multiply2No.xml] has finished in [415] ms
+03-Nov-2024 16:57:18.118 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 16:57:18.166 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [532] milliseconds
+03-Nov-2024 17:11:03.099 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 17:11:03.168 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Nov-2024 17:11:03.228 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Nov-2024 17:11:03.248 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

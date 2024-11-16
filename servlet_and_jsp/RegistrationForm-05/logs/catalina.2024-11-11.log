@@ -1,0 +1,147 @@
+11-Nov-2024 19:47:57.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.96
+11-Nov-2024 19:47:57.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2024 19:44:30 UTC
+11-Nov-2024 19:47:57.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.96.0
+11-Nov-2024 19:47:57.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+11-Nov-2024 19:47:57.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Nov-2024 19:47:57.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Nov-2024 19:47:57.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Amazon Corretto\jdk17.0.5_8
+11-Nov-2024 19:47:57.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.5+8-LTS
+11-Nov-2024 19:47:57.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+11-Nov-2024 19:47:57.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05
+11-Nov-2024 19:47:57.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+11-Nov-2024 19:47:57.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Nov-2024 19:47:57.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Nov-2024 19:47:57.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Nov-2024 19:47:57.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Nov-2024 19:47:57.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Nov-2024 19:47:57.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+11-Nov-2024 19:47:57.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05
+11-Nov-2024 19:47:57.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\temp
+11-Nov-2024 19:47:57.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\conf\logging.properties
+11-Nov-2024 19:47:57.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Nov-2024 19:47:57.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=55075:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin
+11-Nov-2024 19:47:57.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+11-Nov-2024 19:47:57.323 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+11-Nov-2024 19:47:57.323 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+11-Nov-2024 19:47:57.323 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+11-Nov-2024 19:47:57.353 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+11-Nov-2024 19:47:58.307 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:47:58.337 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1380] milliseconds
+11-Nov-2024 19:47:58.396 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Nov-2024 19:47:58.396 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.96]
+11-Nov-2024 19:47:58.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\conf\Catalina\localhost\RegistrationForm-05.xml]
+11-Nov-2024 19:47:59.642 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Nov-2024 19:47:59.751 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\conf\Catalina\localhost\RegistrationForm-05.xml] has finished in [1,342] ms
+11-Nov-2024 19:47:59.754 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:47:59.792 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1454] milliseconds
+11-Nov-2024 19:49:14.390 WARNING [http-nio-8080-exec-9] org.apache.catalina.connector.Request.recycle Failed to deleted temporary file used for part [image]
+	java.io.UncheckedIOException: Cannot delete C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\work\Catalina\localhost\RegistrationForm-05\upload_71ca9a7b_4b14_4fe5_91ca_83727c3c651d_00000003.tmp
+		at org.apache.tomcat.util.http.fileupload.disk.DiskFileItem.delete(DiskFileItem.java:429)
+		at org.apache.catalina.core.ApplicationPart.delete(ApplicationPart.java:53)
+		at org.apache.catalina.connector.Request.recycle(Request.java:475)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:424)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:383)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+	Caused by: java.io.IOException: Cannot delete C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\work\Catalina\localhost\RegistrationForm-05\upload_71ca9a7b_4b14_4fe5_91ca_83727c3c651d_00000003.tmp
+		... 13 more
+11-Nov-2024 19:50:16.948 WARNING [http-nio-8080-exec-1] org.apache.catalina.connector.Request.recycle Failed to deleted temporary file used for part [image]
+	java.io.UncheckedIOException: Cannot delete C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\work\Catalina\localhost\RegistrationForm-05\upload_71ca9a7b_4b14_4fe5_91ca_83727c3c651d_00000007.tmp
+		at org.apache.tomcat.util.http.fileupload.disk.DiskFileItem.delete(DiskFileItem.java:429)
+		at org.apache.catalina.core.ApplicationPart.delete(ApplicationPart.java:53)
+		at org.apache.catalina.connector.Request.recycle(Request.java:475)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:424)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:383)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+	Caused by: java.io.IOException: Cannot delete C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\work\Catalina\localhost\RegistrationForm-05\upload_71ca9a7b_4b14_4fe5_91ca_83727c3c651d_00000007.tmp
+		... 13 more
+11-Nov-2024 19:50:33.568 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:50:33.632 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Nov-2024 19:50:33.640 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [RegistrationForm-05] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-Nov-2024 19:50:33.640 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [RegistrationForm-05] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.5/java.lang.Object.wait(Native Method)
+ java.base@17.0.5/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.5/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.5/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.5/java.lang.Thread.run(Thread.java:833)
+11-Nov-2024 19:50:33.647 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:50:33.672 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:50:39.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.96
+11-Nov-2024 19:50:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2024 19:44:30 UTC
+11-Nov-2024 19:50:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.96.0
+11-Nov-2024 19:50:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+11-Nov-2024 19:50:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Nov-2024 19:50:39.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Nov-2024 19:50:39.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Amazon Corretto\jdk17.0.5_8
+11-Nov-2024 19:50:39.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.5+8-LTS
+11-Nov-2024 19:50:39.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+11-Nov-2024 19:50:39.985 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05
+11-Nov-2024 19:50:39.985 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+11-Nov-2024 19:50:40.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Nov-2024 19:50:40.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Nov-2024 19:50:40.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Nov-2024 19:50:40.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Nov-2024 19:50:40.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Nov-2024 19:50:40.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Omkumar Tyagi\Downloads\apache-tomcat-9.0.96-windows-x64\apache-tomcat-9.0.96
+11-Nov-2024 19:50:40.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05
+11-Nov-2024 19:50:40.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\temp
+11-Nov-2024 19:50:40.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\conf\logging.properties
+11-Nov-2024 19:50:40.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Nov-2024 19:50:40.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\lib\idea_rt.jar=56666:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin
+11-Nov-2024 19:50:40.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+11-Nov-2024 19:50:40.013 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+11-Nov-2024 19:50:40.014 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+11-Nov-2024 19:50:40.014 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+11-Nov-2024 19:50:40.024 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+11-Nov-2024 19:50:40.651 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:50:40.676 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1008] milliseconds
+11-Nov-2024 19:50:40.716 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Nov-2024 19:50:40.716 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.96]
+11-Nov-2024 19:50:40.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\conf\Catalina\localhost\RegistrationForm-05.xml]
+11-Nov-2024 19:50:41.632 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Nov-2024 19:50:41.717 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\conf\Catalina\localhost\RegistrationForm-05.xml] has finished in [993] ms
+11-Nov-2024 19:50:41.726 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:50:41.763 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1086] milliseconds
+11-Nov-2024 19:51:29.485 WARNING [http-nio-8080-exec-6] org.apache.catalina.connector.Request.recycle Failed to deleted temporary file used for part [image]
+	java.io.UncheckedIOException: Cannot delete C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\work\Catalina\localhost\RegistrationForm-05\upload_e0b066a4_0aba_46e1_950e_cca3c5944434_00000003.tmp
+		at org.apache.tomcat.util.http.fileupload.disk.DiskFileItem.delete(DiskFileItem.java:429)
+		at org.apache.catalina.core.ApplicationPart.delete(ApplicationPart.java:53)
+		at org.apache.catalina.connector.Request.recycle(Request.java:475)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:424)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:383)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+	Caused by: java.io.IOException: Cannot delete C:\Desktop\yt\servlet_and_jsp\RegistrationForm-05\work\Catalina\localhost\RegistrationForm-05\upload_e0b066a4_0aba_46e1_950e_cca3c5944434_00000003.tmp
+		... 13 more
+11-Nov-2024 19:53:30.246 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:53:30.297 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Nov-2024 19:53:30.306 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [RegistrationForm-05] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-Nov-2024 19:53:30.307 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [RegistrationForm-05] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.5/java.lang.Object.wait(Native Method)
+ java.base@17.0.5/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.5/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.5/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.5/java.lang.Thread.run(Thread.java:833)
+11-Nov-2024 19:53:30.312 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Nov-2024 19:53:30.323 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
