@@ -1,0 +1,43 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <welcome-file-list>
+    <welcome-file>home.html</welcome-file>
+  </welcome-file-list>
+
+  <servlet>
+    <servlet-name>profile</servlet-name>
+    <servlet-class>ProfileServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>order</servlet-name>
+    <servlet-class>OrderServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>profile</servlet-name>
+    <url-pattern>/ProfileServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>order</servlet-name>
+    <url-pattern>/OrderServlet</url-pattern>
+  </servlet-mapping>
+
+
+  <filter>
+    <filter-name>filter1</filter-name>
+    <filter-class>MyFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>filter1</filter-name>
+
+<!--    for applying filter to every class use *-->
+    <url-pattern>/*</url-pattern>
+
+<!--    for applying filter to  particular class use url pattern of that class-->
+    <url-pattern>/ProfileServlet</url-pattern>
+    <url-pattern>/OrderServlet</url-pattern>
+  </filter-mapping>
+</web-app>
